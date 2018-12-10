@@ -326,7 +326,8 @@
     "failure": "共有障害",
     "shareWeiXinFail": "WeChatクライアントがインストールされていません",
     "shareQQFail": "QQクライアントがインストールされていない",
-    "inputIllegal": "不正な入力"
+    "inputIllegal": "不正な入力",
+    "album": "アルバム"
   },
   "gesture": {
     "gestureTitle": "グラフィックパスワードを設定してください",

@@ -325,7 +325,8 @@
     "failure": "分享失败",
     "shareWeiXinFail": "未安装微信客户端",
     "shareQQFail": "未安装QQ客户端",
-    "inputIllegal": "输入非法"
+    "inputIllegal": "输入非法",
+    "album": "相册"
   },
   "gesture": {
     "gestureTitle": "请设置您的图形密码",

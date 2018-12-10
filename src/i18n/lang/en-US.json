@@ -325,7 +325,8 @@
     "failure": "Fail",
     "shareWeiXinFail": "No WeChat client installed",
     "shareQQFail": "No QQ client installed",
-    "inputIllegal": "Input Illegal"
+    "inputIllegal": "Input Illegal",
+    "album": "Album"
   },
   "gesture": {
     "gestureTitle": "Please set gesture password",

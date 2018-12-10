@@ -325,7 +325,8 @@
     "failure": "공유 하지 못했습니다.",
     "shareWeiXinFail": "Wechat가 설치 되지 않았습니다.",
     "shareQQFail": "QQ가 설치 되어 있지 않습니다.",
-    "inputIllegal": "잘못 된 입력"
+    "inputIllegal": "잘못 된 입력",
+    "album": "앨범"
   },
   "gesture": {
     "gestureTitle": "그래픽 암호 설정",
