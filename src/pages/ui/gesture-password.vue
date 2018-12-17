@@ -48,6 +48,7 @@ export default {
     }
   },
   data () {
+    let self = this;
     return {
       ctx: '',
       width: 0,
@@ -62,13 +63,9 @@ export default {
       canvas: '',
       resetGesture: false, // 判断是否重置手势
       gestureTitleStyle: {},
-      show: false
+      show: false,
+      gestureTitle: self.$t('gesture.gestureTitle')
     };
-  },
-  computed: {
-    gestureTitle () {
-      return this.$t('gesture.gestureTitle');
-    }
   },
   methods: {
     closePopup () {
